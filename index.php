@@ -1,1 +1,1 @@
-<h1><?php echo date('d-m-Y'); ?></h1>
+<h1>Universal Vpay</h1>
